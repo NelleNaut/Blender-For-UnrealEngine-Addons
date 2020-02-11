@@ -1,7 +1,7 @@
 # Prepare asset(s) to export
 We will see how to prepare the assets to export.
 
-1. Open Tool panel in 3D View (T), enlarge it, open Unreal engine 4 main panel and go in Object Properties panel.
+1. Open the Tool panel in 3D View (T), enlarge it, open Unreal engine 4 main panel and go in Object Properties panel.
 <img src="https://github.com/xavier150/Blender-For-UnrealEngine-Addons/blob/master/Tuto/ExportAssetDocScreen1.jpg">
 
 2. Select the asset you want to export and set the Export type property to "Export recursive". Now repeat the task for all the objects you want to export:
@@ -11,12 +11,12 @@ We will see how to prepare the assets to export.
 
 <img src="https://github.com/xavier150/Blender-For-UnrealEngine-Addons/blob/master/Tuto/ExportAssetDocScreen2.jpg">
 
-3. In export panel click on the Export for UnrealEngine 4 button.
+3. In the export panel click on the Export for UnrealEngine 4 button.
 
 # Export collection like a StaticMesh
-1. Open Tool panel in 3D View (T), enlarge it, open Unreal engine 4 main panel and go in Collection Properties panel.
-2. Click on update button then select the collections that you want to export.
-3. In export panel click on the Export for UnrealEngine 4 button.
+1. Open the Tool panel in 3D View (T), enlarge it, open Unreal engine 4 main panel and go in Collection Properties panel.
+2. Click on the update button then select the collections that you want to export.
+3. In the export panel click on the Export for UnrealEngine 4 button.
 
 <img src="https://github.com/xavier150/Blender-For-UnrealEngine-Addons/blob/master/Tuto/ExportAssetDocExportCollection.jpg">
 
@@ -85,7 +85,7 @@ Alembic export and import can take a lot of time.
 You can set specific transform options at export in Avanced object properties panel. Example video: https://youtu.be/rbW5NcyNoK0
 
 
-# Marterial
+# Material
 Materials are not imported, you must create them in Unreal Engine.
 1. Create your material in Unreal Engine .
 2. Create a basic material in Blender with the same name.
